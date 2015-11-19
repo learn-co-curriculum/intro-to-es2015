@@ -1,9 +1,9 @@
 /* jshint expr:true */
 import { expect } from 'chai';
 import { describe, it} from 'mocha';
-import { bestLanguages } from 'intro-to-es6/lib/programmer';
-import { addJavaScript } from 'intro-to-es6/lib/programmer';
-import Programmer from 'intro-to-es6/lib/programmer';
+import { bestLanguages } from 'intro-to-es2015/lib/programmer';
+import { addJavaScript } from 'intro-to-es2015/lib/programmer';
+import Programmer from 'intro-to-es2015/lib/programmer';
 
 describe("Programmer", function(){
   it("knows all the best languages", function(){

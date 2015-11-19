@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'intro-to-es6',
+    modulePrefix: 'intro-to-es2015',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',

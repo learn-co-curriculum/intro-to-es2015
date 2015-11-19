@@ -1,7 +1,7 @@
 {
-  "name": "intro-to-es6",
+  "name": "intro-to-es2015",
   "version": "0.0.0",
-  "description": "Small description for intro-to-es6 goes here",
+  "description": "Small description for intro-to-es2015 goes here",
   "private": true,
   "directories": {
     "doc": "doc",
