@@ -1,4 +1,7 @@
 # ES2015
+
+## NOTE: If you're going to follow along, make sure you do this OUTSIDE of this repo. Creating a `.babelrc` file in an Ember app will make it misbehave. This repo has its own tests.
+
 JavaScript is going through some interesting changes right now. New methods, different ways of doing old things. In this guide, you'll learn about some of those changes, and why they're awesome. You can't run a lot of these in your browser yet, since they're still trying to implement them. Checkout [this](http://kangax.github.io/compat-table/es6) to see when your favorite browser will be getting these features baked in. In the mean time, we'll use a [transpiler](https://babeljs.io/). If you want to play along run this:
 
 ```bash
@@ -278,3 +281,4 @@ console.log(`${bob.name} is a ${bob.job.title}`);
 
 # Labs
 There's nothing that FORCES you to use ES2015 syntax... but use it!
+Start your server with `ember s` and run the tests by visiting `http://localhost:4200/tests`
