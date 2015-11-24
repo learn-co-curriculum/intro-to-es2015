@@ -81,7 +81,7 @@ var steven = {
 }
 steven.displayFriends();
 ```
-SWEET! This changes the way `this` behaves. Instead of being a dynamic scope, it's now a __lexical__ scope. It makes it behave like would you would expect by looking at the text.
+SWEET! This changes the way `this` behaves. Instead of being a dynamic scope, it's now a __lexical__ scope. It makes it behave like you would expect by looking at the text.
 
 
 ## Template strings
