@@ -282,3 +282,5 @@ console.log(`${bob.name} is a ${bob.job.title}`);
 # Labs
 There's nothing that FORCES you to use ES2015 syntax... but use it!
 Start your server with `ember s` and run the tests by visiting `http://localhost:4200/tests`
+
+<a href='https://learn.co/lessons/intro-to-es2015' data-visibility='hidden'>View this lesson on Learn.co</a>
